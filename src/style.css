@@ -5,7 +5,7 @@ body {
 }
 
 .header {
-    background-color: #C7C8C8;
+    background-color: #e8efef;
     height: 9vh;
     display: flex;
     justify-content: center;
@@ -21,19 +21,21 @@ body {
     width: 40%;
     border: 1px solid #ccc;
     font-size: 16px;
+    
 }
 
 #search-btn {
     height: 40px;
     margin-left: 10px;
     padding: 10px;
-    background-color: #cdd3d6;
-    color: white;
+    background-color: #acafb1;
+    color: rgb(255, 255, 255);
     border: none;
     border-radius: 15px;
     cursor: pointer;
-    width: 80px;
+    width: 90px;
     font-size: 14px;
+    font-weight: bold;
 }
 
 #search-btn:hover {
