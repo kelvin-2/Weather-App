@@ -38,5 +38,16 @@ body {
 
 #search-btn:hover {
     background-color: #949594;
- 
+}
+.main-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.weatherCard{
+    background-color:white;
+    align-items:center;
+    margin-top: 8%;
+    width: 30%;
 }
